@@ -33,3 +33,4 @@ novo = pessoa.save(novo)
 pessoas = pessoaDAO.getAll(orderBy=True)
 for pessoa in pessoas:
   print(pessoa)
+  
