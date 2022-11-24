@@ -2,8 +2,8 @@
 from model.Pessoa import Pessoa
 
 #Exemplo de uso
-poyatos = Pessoa(1, "Henrique Poyatos")
-print(poyatos)
+dayvson = Pessoa(1, "Dayvson Gomes")
+print(dayvson)
 
 #Quero mostrar só o nome
-print(poyatos.nome)
+print(dayvson.nome)
